@@ -22,9 +22,3 @@ This Flutter project demonstrates a simple CRUD (Create, Read, Update, Delete) a
 ## Screenshots
 ![Untitled design (2)](https://github.com/yasinpalash/CRUD-Project-WITH-Rest-API/assets/145049322/f8c837d2-fb2f-4664-8ef8-bb7e3dd9a370)
 
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-crud-project.git
-cd your-crud-project
