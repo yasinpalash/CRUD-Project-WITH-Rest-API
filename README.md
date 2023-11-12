@@ -1,16 +1,30 @@
-# moduel
+# CRUD Project with REST API in Flutter
 
-A new Flutter project.
+A Flutter project implementing basic CRUD operations with a RESTful API for managing products.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This Flutter project demonstrates a simple CRUD (Create, Read, Update, Delete) application with a RESTful API for managing products. It allows users to add, update, delete, and view product details through the Flutter app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Product Add: Add new products to the database.
+- Product Update: Modify existing product details.
+- Product Delete: Remove products from the database.
+- Product View: Retrieve and display product information.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- Flutter: [Flutter](https://flutter.dev/) is a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- REST API: Implementing a RESTful API for communication between the Flutter app and the server.
+- [Insert other technologies used]
+
+## Screenshots
+![Untitled design (2)](https://github.com/yasinpalash/CRUD-Project-WITH-Rest-API/assets/145049322/f8c837d2-fb2f-4664-8ef8-bb7e3dd9a370)
+
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-crud-project.git
+cd your-crud-project
